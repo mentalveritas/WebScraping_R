@@ -10,4 +10,9 @@
   - [rocker/rstudio](https://hub.docker.com/r/rocker/rstudio/)
   - R-base 3.3.1
   - RStudio Server v0.99.903
+ - Using Library
+  - httr
+  - rvest
+  - stringr
+  - RSelenium
   
