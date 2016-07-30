@@ -39,3 +39,4 @@ rowMeans(score)
 
 #Data Frame에서 열(column)의 데이터 합 
 rowSums(score)
+

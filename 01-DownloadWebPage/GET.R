@@ -12,3 +12,4 @@ library(rvest)
 # HTML 분석
 h_data = read_html(data)
 html_nodes(h_data, 'title')
+
