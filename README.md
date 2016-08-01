@@ -13,6 +13,7 @@
 - Using Library
   - httr
   - rvest
+  - gdata
   - stringr
   - RSelenium
   
